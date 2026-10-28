@@ -1,1 +1,3 @@
-Data/*.csv
+Data/raw/
+Data/processed/
+.venv/
